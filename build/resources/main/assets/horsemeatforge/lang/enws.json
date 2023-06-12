@@ -1,0 +1,9 @@
+{
+  "item.horsemeatforge.horse_meat": "Raw Horse",
+  "item.horsemeatforge.cooked_horse_meat": "Roasted Horse",
+  "item.horsemeatforge.wolf_meat": "Raw Wolf",
+  "item.horsemeatforge.cooked_wolf_meat": "Roasted Wolf",
+  "item.horsemeatforge.cat_meat": "Raw Cat",
+  "item.horsemeatforge.cooked_cat_meat": "Roasted Cat",
+  "creativemodetab.horsemeatforge_tab": "Horse Meat"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "horsemeatforge:wolf_meat"
+  },
+  "result": "horsemeatforge:cooked_wolf_meat",
+  "experience": 0.15,
+  "cookingtime": 100
+}
